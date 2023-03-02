@@ -1,0 +1,10 @@
+data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage and queried using SQL syntax
+
+定位
+  数仓
+功能
+  读、写、管理
+对象
+  分布式存储中的大数据集
+方式
+  sql语法
